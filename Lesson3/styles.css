@@ -1,0 +1,35 @@
+* {
+  /* font-family: "Matemasie", sans-serif; */
+}
+
+h1 {
+  font-size: 60px;
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScA3TrnajYSbvbZJU8KZp9-zu-VYwe5JcTwg&s");
+    opacity: 0.1;
+}
+
+p {
+  font-weight: 700;
+  color: rgba(0, 0, 255, 0.1);
+  text-align: center;
+  /* background: brown; */
+
+  border: solid black 5px;
+  border-top-right-radius: 4px;
+}
+
+label {
+  text-align: center;
+}
+
+
+/* .box{
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+} */
+/* width = 200px + 1*2 + 10 * 2 = 222px */
+/* height =  200px + 1*2 + 10 * 2 = 222px */

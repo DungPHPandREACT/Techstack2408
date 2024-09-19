@@ -1,0 +1,18 @@
+Bước 0: Các câu lệnh này dùng cho lần đầu tiên
+khi sử dụng git
+    git config --global user.email "youremail@example.com"
+    git config --global user.name "yourname"
+Kiểm tra xem trên máy tính đã config git hay chưa thì các câu lệnh sau
+    git config --global user.email
+    git config --global user.name
+
+Bước 1: Chạy câu lệnh 
+    git init
+Để khởi tạo repository trên local
+Bước 2: Chạy câu lệnh 
+    git remote add origin link_repo
+Để connect repository trên local với repository trên remote
+Bước 3(*): Chạy câu lệnh
+    git add .
+Thêm các file code mới hoặc các file code đã chỉnh sửa vào trong
+commit lần này
