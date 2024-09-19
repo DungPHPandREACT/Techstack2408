@@ -16,3 +16,10 @@ Bước 3(*): Chạy câu lệnh
     git add .
 Thêm các file code mới hoặc các file code đã chỉnh sửa vào trong
 commit lần này
+Bước 4(*): Chạy câu lệnh
+    git commit -m "message"
+Tạo ra 1 commit (bản ghi lịch sử)
+Bước 5(*): Chạy câu lệnh
+    git push origin master
+Đẩy toàn bộ những commit đã tạo trên repository local lên trên
+repository trên remote (nhánh master)
